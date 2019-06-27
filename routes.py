@@ -7,7 +7,7 @@ def index():
     return '''
 <html>
     <head>
-       <title>Home Page - Microblog</title>
+       <title>shekharraj Page - Microblog</title>
     </head>
     <body>
        <h1>Hello, ''' + user['username'] + '''!</h1>     
